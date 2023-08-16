@@ -9,7 +9,7 @@ In this repository, you'll find my journey as I delve into the world of Golang f
 * 🌍  I'm based in Uzbekistan/Nukus
 * ✉️  You can contact me at [sanjarBakhramovich@gmail.com](mailto:sanjarBakhramovich@gmail.com)
 * 🧠  I'm learning Golang for Backend Web Development
-* ⚡  I do my best to write clean and simple code. Once that's done, I dive into optimization, followed by refining it to be elegantly beautiful. And of course, I include comments because I appreciate the mental nourishment they offer to fellow programmers.
+* ⚡  I do my best to write clean and simple code. Once that's done, I dive into optimization, followed by refining it to be elegantly beautiful. And of course, I include comments because I appreciate the mental nourishment they offer to fellow programmers (Python and Javascript at Fundamental).
 
 ### Skills
 
